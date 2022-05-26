@@ -15,7 +15,7 @@ And some statistics:\
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simidzu2ay&layout=compact=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **I'm a Night 🦉** 
 
